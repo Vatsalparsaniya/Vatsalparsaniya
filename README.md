@@ -8,3 +8,4 @@
 
 ---
 
+I am a final-year Student at Pandit Deendayal Energy University, pursuing Bachelor  in Information and Communication Technology, who is passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
