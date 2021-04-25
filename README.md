@@ -9,3 +9,19 @@
 ---
 
 I am a final-year Student at Pandit Deendayal Energy University, pursuing Bachelor  in Information and Communication Technology, who is passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
+
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP.
+- 🌱 I’m currently Machine Learning intern at [intellica.ai](https://intellica.ai/)
+- ⚡ Check out my portfolio site [vatsalparsaniya.github.io](https://vatsalparsaniya.github.io/) for all my projects and and my works.
+
+<details>
+  <summary>Some of my Github Public Stats :computer:</summary>
+  
+  ---
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalparsaniya&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Vatsalparsaniya/github-readme-stats)
+
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Vatsalparsaniya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Vatsalparsaniya)
+  
+  ---
+  
+</details>
