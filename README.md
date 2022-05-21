@@ -11,7 +11,7 @@
 I am a final-year Student at Pandit Deendayal Energy University, pursuing Bachelor  in Information and Communication Technology, who is passionate about Data Science 📊, open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP.
-- 🌱 I’m currently Machine Learning intern at [intellica.ai](https://intellica.ai/)
+- 🌱 I’m currently Data Scientist at [Embibe]([https://intellica.ai/](https://www.embibe.com/))
 - ⚡ Check out my portfolio site [vatsalparsaniya.github.io](https://vatsalparsaniya.github.io/) for all my projects and and my works.
 
 <details>
