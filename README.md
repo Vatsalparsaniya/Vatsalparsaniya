@@ -8,11 +8,14 @@
 
 ---
 
-I am a final-year Student at Pandit Deendayal Energy University, pursuing Bachelor  in Information and Communication Technology, who is passionate about Data Science 📊, open source :octocat:. I love to learn and contribute in any and every possible way.
+Data Science professional with over 2.5 years of expertise in Information Retrieval, NLP, and microservice development. I have
+hands-on expertise in innovating new products using Data Science and Machine Learning. I have experience collaborating with
+cross-functional project teams, SMEs, and leading teams with multiple data scientists and engineers. I am passionate about
+multilingual search systems and uncovering valuable insights from complex data.
 
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision and NLP.
+- 🔭 I'm into NLP, Machine Learning, Data Science.
 - 🌱 I’m currently Data Scientist at [Embibe](https://intellica.ai/](https://www.embibe.com/))
-- ⚡ Check out my portfolio site [vatsalparsaniya.github.io](https://vatsalparsaniya.github.io/) for all my projects and and my works.
+- ⚡ Check out my portfolio site [vatsalparsaniya.com](https://vatsalparsaniya.com/) for all my projects and and my works.
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
